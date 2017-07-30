@@ -1,5 +1,5 @@
-## AnTbot
-Anonymity Telegram bot.
+## Teleresender
+Just resend your messages.
 
 ## Install
  1. Install telebot module: `sudo pip install pytelegrambotapi`
